@@ -1,0 +1,12 @@
+.center {text-align: center;}
+
+.bold{font-weight: bold;}
+
+body{
+    background-color: darkslategrey;
+}
+
+.resumeListTitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
